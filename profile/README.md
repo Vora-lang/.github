@@ -1,9 +1,11 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)">
-    <img alt="Vora" src="https://raw.githubusercontent.com/Vora-lang/Vora/main/res/vora-logo.png" height="120">
+    <img alt="Vora" src="./vora_logo.svg" height="120">
   </picture>
 </p>
+
+
 
 <h3 align="center">Vora — a dynamically typed scripting language.</h3>
 
