@@ -110,7 +110,7 @@ try {
 ./build.sh -a x64 -c release -p                           # → .deb/.rpm/.pkg.tar.xz
 ```
 
-Pre-built packages are available on the [Releases](https://github.com/Vora-lang/Vora/releases) page.
+~~Pre-built packages are available on the [Releases](https://github.com/Vora-lang/Vora/releases) page.~~
 
 ## Usage
 
